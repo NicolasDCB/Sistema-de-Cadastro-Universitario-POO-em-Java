@@ -68,16 +68,3 @@ Tabela de adicionais:
 
 ---
 
-## 🛠️ Execução do Projeto
-
-### ✅ Pré-requisitos
-- JDK 8 ou superior
-- IDE como Eclipse, IntelliJ ou VS Code com extensão Java
-
-### ▶️ Como rodar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/trabalho-poo-universidade.git
-cd trabalho-poo-universidade
-
